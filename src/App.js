@@ -44,6 +44,9 @@ function App() {
       <div>
         <button onClick={resetHandler}>RESET</button>
       </div> 
+      <div>
+        hwajkdlfkkaej/kj;
+      </div>
     </div>
   );
 }
